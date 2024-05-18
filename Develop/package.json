@@ -1,20 +1,20 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "ktotah-e-commerce",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "E-commerce back end using Sequelize and MySQL",
+  "main": "Develop/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "watch": "nodemon server.js",
-    "seed": "node seeds/index.js"
+    "start": "node Develop/server.js",
+    "watch": "nodemon Develop/server.js",
+    "seed": "node Develop/seeds/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/ktotah/ktotah-e-commerce.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Katy Totah",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
