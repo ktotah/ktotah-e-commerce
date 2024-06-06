@@ -28,6 +28,7 @@ To install and run the E-commerce Back End application locally:
 3. Navigate to the project directory in your terminal.
 4. Install the necessary dependencies by running: `npm install` in your terminal.
 5. Create a `.env` file in the root directory and add your MySQL database credentials. You can easily do this by copying the code in the .env.EXAMPLE file and replacing `your_password_here` with your MySQL password.
+6. Ensure that `require('dotenv').config();` is added at the top of your `server.js` file to load the environment variables.
 
 
 ## Usage 
