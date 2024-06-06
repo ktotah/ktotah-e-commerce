@@ -57,7 +57,7 @@ After installation, follow these steps to use the application:
 
 
 ## Video Demonstration
-A walkthrough video demonstrating the functionality of the application, including creating the schema, seeding the database, and starting the server, is available [here](INSERTLINK!!!!!).
+A walkthrough video demonstrating the functionality of the application, including creating the schema, seeding the database, and starting the server, is available [here](https://drive.google.com/file/d/11W-hGHc36sTAYrPRpSGfPALIuOiFbLRx/view?usp=sharing).
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
